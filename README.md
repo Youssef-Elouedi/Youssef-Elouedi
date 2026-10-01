@@ -4,7 +4,7 @@ Software engineering graduate (MedTech, 2026) building ML systems that run in pr
 
 **Recent work**
 
-- Semantic legal search (French/Arabic): BAAI/bge-m3 + PyTorch, self-hosted — Mouhamina (private team product)
+- Semantic legal search (French/Arabic): BAAI/bge-m3 + PyTorch, self-hosted — (private team product)
 - Predictive-maintenance MLOps on Azure ML: HyperDrive, champion/challenger gate, drift monitoring, ONNX
 - Forecasting + anomaly detection FastAPI microservice — final-year project, Sopra HR Software
 - Prompt-to-3D generative AI prototype (Gemini + React Three Fiber)
